@@ -1,0 +1,7 @@
+facebook-business>=20.0.0
+psycopg2-binary>=2.9.9
+anthropic>=0.40.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+apscheduler>=3.10.0
+openpyxl>=3.1.0
